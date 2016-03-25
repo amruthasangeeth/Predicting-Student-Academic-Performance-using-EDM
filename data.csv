@@ -1,0 +1,11 @@
+ownerHouse,marry,gender,CR,emp,Rclass
+yes,yes,m,a,yes,B
+no,no,f,a,yes,A
+yes,yes,f,b,yes,C
+yes,no,m,b,no,B
+yes,yes,f,b,yes,C
+no,no,f,b,yes,A
+no,no,m,b,no,B
+yes,no,f,a,yes,A
+no,yes,f,a,yes,C
+yes,yes,f,a,yes,C
